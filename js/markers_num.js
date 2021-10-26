@@ -34,3 +34,5 @@ L.marker([-7611, 6330], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>CayoPerico 12</h2><p><a href='https://i.imgur.com/WwYVhxw.jpeg' data-lightbox='image-1' data-title='CayoPerico 12'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3175, 4350], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Sandy Shores 8</h2><p><a href='https://i.imgur.com/QVbHEls.png' data-lightbox='image-1' data-title='Sandy Shores 8'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-7342, 2570], {icon: cardIcon9}).addTo(map)
+  .bindPopup("<h2>Airport 4</h2><p><a href='https://i.imgur.com/Fr8qBhJ.png' data-lightbox='image-1' data-title='Airport 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
