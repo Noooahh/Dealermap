@@ -42,3 +42,7 @@ L.marker([-3475, 3860], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Harmony 3</h2><p><a href='https://i.imgur.com/O9gVUkd.jpeg' data-lightbox='image-1' data-title='Harmony 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2021, 3385], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Sägewerk 2</h2><p><a href='https://i.imgur.com/U091Hm8.jpeg' data-lightbox='image-1' data-title='Sägewerk 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5555, 4850], {icon: cardIcon8}).addTo(map)
+  .bindPopup("<h2>Staudamm 1</h2><p><a href='https://i.imgur.com/ObDOCgz.jpeg' data-lightbox='image-1' data-title='Staudamm 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-1960, 3470], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Sägewerk 3</h2><p><a href='https://i.imgur.com/NjvQZTp.jpeg' data-lightbox='image-1' data-title='Sägewerk 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
