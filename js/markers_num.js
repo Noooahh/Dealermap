@@ -38,7 +38,3 @@ L.marker([-7342, 2570], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Airport 4</h2><p><a href='https://i.imgur.com/Fr8qBhJ.png' data-lightbox='image-1' data-title='Airport 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6565, 4290], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress 9</h2><p><a href='https://i.imgur.com/hzN7BaY.jpeg' data-lightbox='image-1' data-title='Cypress 9'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-
-
-
-  
