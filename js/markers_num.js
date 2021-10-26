@@ -40,3 +40,5 @@ L.marker([-6565, 4290], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress 9</h2><p><a href='https://i.imgur.com/hzN7BaY.jpeg' data-lightbox='image-1' data-title='Cypress 9'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3475, 3860], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Harmony 3</h2><p><a href='https://i.imgur.com/O9gVUkd.jpeg' data-lightbox='image-1' data-title='Harmony 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-2021, 3385], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Sägewerk 2</h2><p><a href='https://i.imgur.com/U091Hm8.jpeg' data-lightbox='image-1' data-title='Sägewerk 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
