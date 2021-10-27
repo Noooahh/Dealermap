@@ -23,7 +23,7 @@ L.marker([-6615, 4913], {icon: cardIcon2}).addTo(map)
 L.marker([-7675, 3954], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 14</h2><p><a href='https://i.imgur.com/VaXMr3j.jpeg' data-lightbox='image-1' data-title='Hafen 14'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7575, 4107], {icon: cardIcon6}).addTo(map)
-  .bindPopup("<h2>Hafen 13</h2><p><a href='https://i.imgur.com/naURBlT.jpeg' data-lightbox='image-1' data-title='Hafen 13'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>Hafen 13</h2><p><a href='https://i.imgur.com/tFTr8gL.jpeg' data-lightbox='image-1' data-title='Hafen 13'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7630, 4500], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 4</h2><p><a href='https://i.imgur.com/8PJXh2j.jpeg' data-lightbox='image-1' data-title='Hafen 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7118, 4398], {icon: cardIcon2}).addTo(map)
