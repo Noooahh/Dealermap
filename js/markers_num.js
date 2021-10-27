@@ -37,7 +37,7 @@ L.marker([-3175, 4350], {icon: cardIcon4}).addTo(map)
 L.marker([-7342, 2570], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Airport 4</h2><p><a href='https://i.imgur.com/Fr8qBhJ.png' data-lightbox='image-1' data-title='Airport 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6565, 4290], {icon: cardIcon2}).addTo(map)
-  .bindPopup("<h2>Cypress 9</h2><p><a href='https://i.imgur.com/hzN7BaY.jpeg' data-lightbox='image-1' data-title='Cypress 9'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>Cypress Flats 9</h2><p><a href='https://i.imgur.com/hzN7BaY.jpeg' data-lightbox='image-1' data-title='Cypress 9'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3475, 3860], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Harmony 3</h2><p><a href='https://i.imgur.com/O9gVUkd.jpeg' data-lightbox='image-1' data-title='Harmony 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2021, 3385], {icon: cardIcon1}).addTo(map)
@@ -60,3 +60,7 @@ L.marker([-4730, 3880], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Vinewood 8</h2><p><a href='https://i.imgur.com/B4Cde0g.png' data-lightbox='image-1' data-title='Vinewood 8'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4800, 1670], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Westhighway 7</h2><p><a href='https://i.imgur.com/nlsAP0x.png' data-lightbox='image-1' data-title='Westhighway 7'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-6982, 4125], {icon: cardIcon6}).addTo(map)
+  .bindPopup("<h2>Cyprss Flats 1</h2><p><a href='https://i.imgur.com/JwdMwZQ.png' data-lightbox='image-1' data-title='Cypress Flats 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-4750, 4300], {icon: cardIcon8}).addTo(map)
+  .bindPopup("<h2>Vinewood 6</h2><p><a href='https://i.imgur.com/xtm9X1u.jpeg' data-lightbox='image-1' data-title='Vinewood 6'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
