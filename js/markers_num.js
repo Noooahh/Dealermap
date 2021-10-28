@@ -68,3 +68,5 @@ L.marker([-5515, 3692], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>VinewoodWest 1</h2><p><a href='https://i.imgur.com/1oAMZVg.png' data-lightbox='image-1' data-title='VinewoodWest 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7450, 4170], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 8</h2><p><a href='https://i.imgur.com/4YN0EG7.png' data-lightbox='image-1' data-title='Hafen 8'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-6135, 2946], {icon: cardIcon5}).addTo(map)
+  .bindPopup("<h2>Vespucci Kanäle 1</h2><p><a href='https://i.imgur.com/pfJAKT5.png' data-lightbox='image-1' data-title='Vespucci Kanäle 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
