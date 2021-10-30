@@ -80,3 +80,5 @@ L.marker([-6450, 4420], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 13</h2><p><a href='https://i.imgur.com/y3mzlSR.jpeg' data-lightbox='image-1' data-title='Cypress Flats 13'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4400, 5480], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>E-Werk 4</h2><p><a href='https://i.imgur.com/1HZ1BDG.jpeg' data-lightbox='image-1' data-title='E-Werk 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  L.marker([-4950, 3240], {icon: cardIcon5}).addTo(map)
+  .bindPopup("<h2>Vinewood 11</h2><p><a href='https://i.imgur.com/sszHlI9.jpeg' data-lightbox='image-1' data-title='Vinewood 11'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
