@@ -88,6 +88,8 @@ L.marker([-3140, 3778], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Stab City 2</h2><p><a href='https://i.imgur.com/2Z7CA9M.png' data-lightbox='image-1' data-title='Stab City 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2275, 3000], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Mountain 2</h2><p><a href='https://i.imgur.com/gRqeSzI.png' data-lightbox='image-1' data-title='Mountain 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-3715, 3190], {icon: cardIcon4}).addTo(map)
+  .bindPopup("<h2>Route68 3</h2><p><a href='https://i.imgur.com/3unxG5Y.png' data-lightbox='image-1' data-title='Route68 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
   1 Gelb
