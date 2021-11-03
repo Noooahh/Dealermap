@@ -103,7 +103,7 @@ L.marker([-1850, 4050], {icon: cardIcon1}).addTo(map)
 L.marker([-5480, 4480], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Rennbahn 2</h2><p><a href='https://i.imgur.com/PBdE7sa.jpeg' data-lightbox='image-1' data-title='Rennbahn 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5230, 1730], {icon: cardIcon1}).addTo(map)
-  .bindPopup("<h2>Westhighway 8</h2><p><a href='https://i.imgur.com/O43E6JH.png' data-lightbox='image-1' data-title='Westhighway 8'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>Westhighway 8</h2><p><a href='https://i.imgur.com/jozmjUS.png' data-lightbox='image-1' data-title='Westhighway 8'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4941, 3993], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 5</h2><p><a href='https://i.imgur.com/QpHw85w.jpeg' data-lightbox='image-1' data-title='Vinewood 5'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-4941, 3993], {icon: cardIcon3}).addTo(map)
@@ -120,6 +120,10 @@ L.marker([-2410, 4900], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Grapeseed 3</h2><p><a href='https://i.imgur.com/j0U3QEm.jpeg' data-lightbox='image-1' data-title='Grapeseed 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6885, 4030], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Rancho 3</h2><p><a href='https://i.imgur.com/qzVrh7O.jpeg' data-lightbox='image-1' data-title='Rancho 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-7005, 4820], {icon: cardIcon2}).addTo(map)
+  .bindPopup("<h2>Cypress Flats 5</h2><p><a href='https://i.imgur.com/FICcWfH.jpeg' data-lightbox='image-1' data-title='Cypress Flats 5'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-6355, 3020], {icon: cardIcon5}).addTo(map)
+  .bindPopup("<h2>Vespucci Kanäle 2</h2><p><a href='https://i.imgur.com/5xbjIed.jpeg' data-lightbox='image-1' data-title='Vespucci Kanäle 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
   1 Gelb
