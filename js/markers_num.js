@@ -122,8 +122,6 @@ L.marker([-6885, 4030], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Rancho 3</h2><p><a href='https://i.imgur.com/qzVrh7O.jpeg' data-lightbox='image-1' data-title='Rancho 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7005, 4820], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 5</h2><p><a href='https://i.imgur.com/FICcWfH.jpeg' data-lightbox='image-1' data-title='Cypress Flats 5'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-6355, 3020], {icon: cardIcon5}).addTo(map)
-  .bindPopup("<h2>Vespucci Kanäle 2</h2><p><a href='https://i.imgur.com/5xbjIed.jpeg' data-lightbox='image-1' data-title='Vespucci Kanäle 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6347, 3020], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Vespucci Kanäle 2</h2><p><a href='https://i.imgur.com/5xbjIed.jpeg' data-lightbox='image-1' data-title='Vespucci Kanäle 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6356, 3030], {icon: cardIcon5}).addTo(map)
