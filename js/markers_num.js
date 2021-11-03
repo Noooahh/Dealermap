@@ -127,7 +127,7 @@ L.marker([-6355, 3020], {icon: cardIcon5}).addTo(map)
 L.marker([-6347, 3020], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Vespucci Kanäle 2</h2><p><a href='https://i.imgur.com/5xbjIed.jpeg' data-lightbox='image-1' data-title='Vespucci Kanäle 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6356, 3030], {icon: cardIcon5}).addTo(map)
-  .bindPopup("<h2>Vespucci Kanäle 5</h2><p><a href='https://i.imgur.com/gKGCVn9.png' data-lightbox='image-1' data-title='Vespucci Kanäle 5'>Screenshot öffnen</a><a>Nur ein ungefährer Standort</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>Vespucci Kanäle 5</h2><p><a href='https://i.imgur.com/gKGCVn9.png' data-lightbox='image-1' data-title='Vespucci Kanäle 5'>Screenshot öffnen</a></br><a>Nur ein ungefährer Standort</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7431, 4330], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 7</h2><p><a>nördl. Containerschiff auf der linken Seite; Sehr nah an der Treppe und vermutlich im Erdgeschoss</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
