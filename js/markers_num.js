@@ -114,6 +114,10 @@ L.marker([-5530, 4850], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Staudamm 2</h2><p><a href='https://i.imgur.com/TBHqSK9.jpeg' data-lightbox='image-1' data-title='Staudamm 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6125, 2777], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Del Perro Beach 1</h2><p><a href='https://i.imgur.com/Rw4jqWq.jpeg' data-lightbox='image-1' data-title='Del Perro Beach 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-7750, 2850], {icon: cardIcon9}).addTo(map)
+  .bindPopup("<h2>Airport 1</h2><p><a href='https://i.imgur.com/Dj5v5gP.jpeg' data-lightbox='image-1' data-title='Airport 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-2410, 4900], {icon: cardIcon4}).addTo(map)
+  .bindPopup("<h2>Grapeseed 3</h2><p><a href='https://i.imgur.com/j0U3QEm.jpeg' data-lightbox='image-1' data-title='Grapeseed 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
   1 Gelb
