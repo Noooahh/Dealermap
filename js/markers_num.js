@@ -164,6 +164,8 @@ L.marker([-6755, 4425], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 11</h2><p><a href='https://i.imgur.com/gpqzjPd.png' data-lightbox='image-1' data-title='Cypress Flats 11'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-1921, 3234], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Sägewerk 4</h2><p><a href='https://i.imgur.com/b3Q8LdI.png' data-lightbox='image-1' data-title='Sägewerk 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-3575, 3475], {icon: cardIcon4}).addTo(map)
+  .bindPopup("<h2>Route68 5</h2><p><a href='https://i.imgur.com/uq0qklN.jpeg' data-lightbox='image-1' data-title='Route68 5'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
   1 Gelb
