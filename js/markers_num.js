@@ -172,6 +172,8 @@ L.marker([-3810, 2386], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Naturschutzgebiet 2</h2><p><a href='https://i.imgur.com/Umd0tgA.jpeg' data-lightbox='image-1' data-title='Naturschutzgebiet 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7190, 2615], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Airport 10</h2><p><a href='https://i.imgur.com/NPr0IGC.jpeg' data-lightbox='image-1' data-title='Airport 10'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-4517, 5575], {icon: cardIcon8}).addTo(map)
+  .bindPopup("<h2>E-Werk 2</h2><p><a href='https://i.imgur.com/LlsGC32.png' data-lightbox='image-1' data-title='E-Werk 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
   1 Gelb
