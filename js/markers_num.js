@@ -70,7 +70,7 @@ L.marker([-7450, 4170], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 8</h2><p><a href='https://i.imgur.com/4YN0EG7.png' data-lightbox='image-1' data-title='Hafen 8'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6135, 2946], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Vespucci Kanäle 1</h2><p><a href='https://i.imgur.com/pfJAKT5.png' data-lightbox='image-1' data-title='Vespucci Kanäle 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-5677, 3182], {icon: cardIcon3}).addTo(map)
+L.marker([-5677, 3182], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Rockford Hills 4</h2><p><a href='https://i.imgur.com/FAGuvaz.png' data-lightbox='image-1' data-title='Rockford Hills 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5040, 2870], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 12</h2><p><a href='https://i.imgur.com/iHNwZ2g.jpeg' data-lightbox='image-1' data-title='Vinewood 12'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
@@ -186,6 +186,8 @@ L.marker([-3056, 3815], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Stab City 3</h2><p><a href='https://i.imgur.com/y10ve6u.jpeg' data-lightbox='image-1' data-title='Stab City 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7480, 4122], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 10</h2><p><a href='https://i.imgur.com/TgyuagH.jpeg' data-lightbox='image-1' data-title='Hafen 10'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5704, 3606], {icon: cardIcon5}).addTo(map)
+  .bindPopup("<h2>Burton 1</h2><p><a href='https://i.imgur.com/2oKbT4y.png' data-lightbox='image-1' data-title='Burton 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
   1 Gelb
