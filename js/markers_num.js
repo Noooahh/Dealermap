@@ -180,6 +180,8 @@ L.marker([-2102, 2326], {icon: cardIcon10}).addTo(map)
   .bindPopup("<h2>Insel 2</h2><p><a href='https://i.imgur.com/ZmbAtfs.jpeg' data-lightbox='image-1' data-title='Insel 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-1840, 5203], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Grapeseed 1</h2><p><a href='https://i.imgur.com/R37vxCc.jpeg' data-lightbox='image-1' data-title='Grapeseed 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-4950, 3500], {icon: cardIcon3}).addTo(map)
+  .bindPopup("<h2>Vinewood 3</h2><p><a href='https://i.imgur.com/QMkD9pP.jpeg' data-lightbox='image-1' data-title='Vinewood 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
   1 Gelb
