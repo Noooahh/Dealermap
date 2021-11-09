@@ -200,6 +200,8 @@ L.marker([-2811, 2226], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Westhighway 4</h2><p><a href='https://i.imgur.com/2X1gqC3.jpeg' data-lightbox='image-1' data-title='Westhighway 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7170, 3160], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Airport 8</h2><p><a href='https://i.imgur.com/ud4EXp8.jpeg' data-lightbox='image-1' data-title='Airport 8'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-1030, 3850], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Paleto Bay 1</h2><p><a href='https://i.imgur.com/Qhf8i2c.png' data-lightbox='image-1' data-title='Paleto Bay 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
   1 Gelb
