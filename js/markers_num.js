@@ -248,7 +248,7 @@ L.marker([-7600, 6800], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>CayoPerico 16</h2><p><a href='https://i.imgur.com/wZeozfm.jpeg' data-lightbox='image-1' data-title='CayoPerico 16'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7600, 6900], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>CayoPerico 17</h2><p><a href='https://i.imgur.com/VKVJLJ9.png' data-lightbox='image-1' data-title='CayoPerico 17'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-7600, 6900], {icon: cardIcon7}).addTo(map)
+L.marker([-7600, 7000], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>CayoPerico 19</h2><p><a href='https://i.imgur.com/FEaRPa1.jpeg' data-lightbox='image-1' data-title='CayoPerico 19'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
