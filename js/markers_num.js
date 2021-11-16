@@ -250,7 +250,7 @@ L.marker([-5178, 4234], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 7</h2><p><a href='https://i.imgur.com/JM9eVC0.jpeg' data-lightbox='image-1' data-title='Vinewood 7'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7275, 3460], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 23</h2><p><a href='https://i.imgur.com/eawog2s.png' data-lightbox='image-1' data-title='Hafen 23'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-4777, 3500], {icon: cardIcon4}).addTo(map)
+L.marker([-4777, 3500], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 1</h2><p><a href='https://i.imgur.com/BQiM3xu.jpeg' data-lightbox='image-1' data-title='Vinewood 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
  
   /*
