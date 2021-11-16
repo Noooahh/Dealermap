@@ -232,13 +232,13 @@ L.marker([-5267, 3140], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 10</h2><p><a href='https://i.imgur.com/4vKbFCu.png' data-lightbox='image-1' data-title='Vinewood 10'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2300, 5020], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Grapeseed 2</h2><p><a href='https://i.imgur.com/3ALMlMk.jpeg' data-lightbox='image-1' data-title='Grapeseed 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-3611,5,3975], {icon: cardIcon4}).addTo(map)
+L.marker([-3611,3975], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Harmony 2</h2><p><a href='https://i.imgur.com/RUnxsdz.png' data-lightbox='image-1' data-title='Harmony 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3646, 4366], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Harmony 4</h2><p><a href='https://i.imgur.com/7cJKNw1.png' data-lightbox='image-1' data-title='Harmony 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6339.5, 4206.75], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>La Mesa 3</h2><p><a href='https://i.imgur.com/UEn7b3q.jpeg' data-lightbox='image-1' data-title='La Mesa 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-6414,5, 4017], {icon: cardIcon9}).addTo(map)
+L.marker([-6414, 4017], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Strawberry 1</h2><p><a href='https://i.imgur.com/2EVylep.jpeg' data-lightbox='image-1' data-title='Strawberry 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5517,5, 3752], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>VinewoodWest 2</h2><p><a href='https://i.imgur.com/IqXTJ0k.jpeg' data-lightbox='image-1' data-title='VinewoodWest 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
