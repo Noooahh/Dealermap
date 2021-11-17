@@ -256,6 +256,8 @@ L.marker([-4995, 3815], {icon: cardIcon3}).addTo(map)
   .bindPopup("<h2>Vinewood 4</h2><p><a href='https://i.imgur.com/ADuSeRC.jpeg' data-lightbox='image-1' data-title='Vinewood 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3430, 5115], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Sandy Shores 6</h2><p><a href='https://i.imgur.com/j749ewR.jpeg' data-lightbox='image-1' data-title='Sandy Shores 6'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  L.marker([-7300, 3980], {icon: cardIcon6}).addTo(map)
+  .bindPopup("<h2>Hafen 17</h2><p><a href='https://i.imgur.com/lAM6g9t.jpeg' data-lightbox='image-1' data-title='Hafen 17'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
  
   /*
   1 Gelb
