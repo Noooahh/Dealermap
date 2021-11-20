@@ -264,6 +264,8 @@ L.marker([-7432, 3395], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 25</h2><p><a href='https://i.imgur.com/1gUipyj.jpeg' data-lightbox='image-1' data-title='Hafen 25'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3850, 2240], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Naturschutzgebiet 1</h2><p><a href='https://i.imgur.com/QkeWgqX.jpeg' data-lightbox='image-1' data-title='Naturschutzgebiet 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-6546, 3590], {icon: cardIcon9}).addTo(map)
+  .bindPopup("<h2>Davis 4</h2><p><a href='https://i.imgur.com/MMzqhvO.jpeg' data-lightbox='image-1' data-title='Davis 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
   1 Gelb 
