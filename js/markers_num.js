@@ -266,6 +266,8 @@ L.marker([-3850, 2240], {icon: cardIcon4}).addTo(map)
   .bindPopup("<h2>Naturschutzgebiet 1</h2><p><a href='https://i.imgur.com/QkeWgqX.jpeg' data-lightbox='image-1' data-title='Naturschutzgebiet 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6546, 3590], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Davis 4</h2><p><a href='https://i.imgur.com/MMzqhvO.jpeg' data-lightbox='image-1' data-title='Davis 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-1100, 3860], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>PaletoBay 2</h2><p><a href='https://i.imgur.com/ueWtENx.jpeg' data-lightbox='image-1' data-title='PaletoBay 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
   1 Gelb 
@@ -307,5 +309,7 @@ L.marker([-7600, 6800], {icon: cardIcon7}).addTo(map)
 L.marker([-7600, 6900], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>CayoPerico 17</h2><p><a href='https://i.imgur.com/VKVJLJ9.png' data-lightbox='image-1' data-title='CayoPerico 17'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7600, 7000], {icon: cardIcon7}).addTo(map)
+  .bindPopup("<h2>CayoPerico 18</h2><p><a href='https://i.imgur.com/ubV2gSn.png' data-lightbox='image-1' data-title='CayoPerico 18'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-7600, 7100], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>CayoPerico 19</h2><p><a href='https://i.imgur.com/FEaRPa1.jpeg' data-lightbox='image-1' data-title='CayoPerico 19'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
