@@ -268,6 +268,10 @@ L.marker([-6546, 3590], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Davis 4</h2><p><a href='https://i.imgur.com/MMzqhvO.jpeg' data-lightbox='image-1' data-title='Davis 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-1100, 3860], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>PaletoBay 2</h2><p><a href='https://i.imgur.com/ueWtENx.jpeg' data-lightbox='image-1' data-title='PaletoBay 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  L.marker([-3858,3565], {icon: cardIcon4}).addTo(map)
+  .bindPopup("<h2>Route68 1</h2><p><a href='https://i.imgur.com/SCdReOf.png' data-lightbox='image-1' data-title='Route68 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  L.marker([-2763, 3400], {icon: cardIcon1}).addTo(map)
+  .bindPopup("<h2>Mountain 3</h2><p><a href='https://i.imgur.com/Lxj6fks.png' data-lightbox='image-1' data-title='Mountain 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
   1 Gelb 
