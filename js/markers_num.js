@@ -294,6 +294,8 @@ L.marker([-7727, 4429], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 3</h2><p><a href='https://i.imgur.com/FIyAwN1.jpeg' data-lightbox='image-1' data-title='Hafen 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5607, 4420], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Rennbahn 4</h2><p><a href='https://i.imgur.com/bG08M7l.jpeg' data-lightbox='image-1' data-title='Rennbahn 4'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5746, 2424], {icon: cardIcon8}).addTo(map)
+  .bindPopup("<h2>Westhighway 9</h2><p5<a href='https://i.imgur.com/VHkwxgT.png' data-lightbox='image-1' data-title='Westhighway 9'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
 
   /*
