@@ -300,6 +300,8 @@ L.marker([-7120, 4290], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 3</h2><p><a href='https://i.imgur.com/fIC5hQz.png' data-lightbox='image-1' data-title='Cypress Flats 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5522, 3060], {icon: cardIcon5}).addTo(map)
   .bindPopup("<h2>Rockford Hills 3</h2><p><a href='https://i.imgur.com/Qffu944.jpeg' data-lightbox='image-1' data-title='Rockford Hills 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-6935, 3641], {icon: cardIcon9}).addTo(map)
+  .bindPopup("<h2>Davis 7</h2><p><a href='https://i.imgur.com/YYJIrNF.jpeg' data-lightbox='image-1' data-title='Davis 7'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
 
   /*
