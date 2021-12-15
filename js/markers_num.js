@@ -306,6 +306,8 @@ L.marker([-7631, 4256], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 1</h2><p><a href='https://i.imgur.com/RkURp9u.png' data-lightbox='image-1' data-title='Hafen 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7500, 4122], {icon: cardIcon6}).addTo(map)
   .bindPopup("<h2>Hafen 9</h2><p><a href='https://i.imgur.com/VIhuB8t.jpeg' data-lightbox='image-1' data-title='Hafen 9'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-5825, 3465], {icon: cardIcon5}).addTo(map)
+  .bindPopup("<h2>Rockford Hills 5</h2><p><a href='https://i.imgur.com/N03WLQ9.jpeg' data-lightbox='image-1' data-title='Rockford Hills 5'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
 
   /*
