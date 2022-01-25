@@ -334,7 +334,7 @@ L.marker([-2960, 5448], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Eisenbahntunnel 2</h2><p><a href='https://i.imgur.com/ippu9jr.jpeg' data-lightbox='image-1' data-title='Eisenbahntunnel 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6659, 3609], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Davis 3</h2><p><a href='https://i.imgur.com/CeeIOK8.jpeg' data-lightbox='image-1' data-title='Davis 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-2535, 3263], {icon: cardIcon1}).addTo(map)
+L.marker([-2535, 3263], {icon: cardIcon11}).addTo(map)
   .bindPopup("<h2>Canyon 2</h2><p><a href='https://i.imgur.com/YVfttd8.png' data-lightbox='image-1' data-title='Canyon 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
@@ -348,6 +348,7 @@ L.marker([-2535, 3263], {icon: cardIcon1}).addTo(map)
   8 Weiss
   9 Lila
   10 Braun
+  11 hellblau
   */
 
 
