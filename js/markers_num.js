@@ -336,9 +336,9 @@ L.marker([-6659, 3609], {icon: cardIcon10}).addTo(map)
   .bindPopup("<h2>Davis 3</h2><p><a href='https://i.imgur.com/CeeIOK8.jpeg' data-lightbox='image-1' data-title='Davis 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-2535, 3263], {icon: cardIcon11}).addTo(map)
   .bindPopup("<h2>Canyon 2</h2><p><a href='https://i.imgur.com/YVfttd8.png' data-lightbox='image-1' data-title='Canyon 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([7709, 2820], {icon: cardIcon9}).addTo(map)
+L.marker([-7709, 2820], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Airport 2</h2><p><a href='https://i.imgur.com/3w8UCQi.png' data-lightbox='image-1' data-title='Airport 2'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([7526, 2467], {icon: cardIcon9}).addTo(map)
+L.marker([-7526, 2467], {icon: cardIcon9}).addTo(map)
   .bindPopup("<h2>Airport 3</h2><p><a href='https://i.imgur.com/29ee7sy.png' data-lightbox='image-1' data-title='Airport 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6821, 4354], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 10</h2><p><a href='https://i.imgur.com/3rh416M.jpeg' data-lightbox='image-1' data-title='Cypress Flats 10'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
