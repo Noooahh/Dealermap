@@ -393,9 +393,9 @@ L.marker([-5660, 4386], {icon: cardIcon8}).addTo(map)
 
 
 
-  L.marker([-5291, 3994], {icon: cardIcon16}).addTo(map)
+L.marker([-5291, 3994], {icon: cardIcon16}).addTo(map)
   .bindPopup("<h2>Hehler Vinewood Downtown</h2><p><a href='https://i.imgur.com/qpcJdVt.jpeg' data-lightbox='image-1' data-title='Hehler Vinewood Downtown'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-L.marker([-3068, 3628], {icon: cardIcon16}).addTo(map)
+L.marker([-3068, 3826], {icon: cardIcon16}).addTo(map)
   .bindPopup("<h2>Hehler StabCity</h2><p><a href='https://i.imgur.com/B8AAhTz.jpeg' data-lightbox='image-1' data-title='Hehler StabCity'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5763, 2798], {icon: cardIcon16}).addTo(map)
   .bindPopup("<h2>Hehler Morningwood</h2><p><a href='https://i.imgur.com/hgDwIC4.jpeg' data-lightbox='image-1' data-title='Hehler Morningwood'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
