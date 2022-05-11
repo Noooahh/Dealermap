@@ -370,7 +370,8 @@ L.marker([-2568, 6468], {icon: cardIcon14}).addTo(map)
   .bindPopup("<h2>Insel 3</h2><p><a href='https://i.imgur.com/ODkBsBy.jpeg' data-lightbox='image-1' data-title='Insel 3'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5660, 4386], {icon: cardIcon8}).addTo(map)
   .bindPopup("<h2>Mirrorpark 1</h2><p><a href='https://i.imgur.com/5aFdZc6.jpeg' data-lightbox='image-1' data-title='Mirrorpark 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-
+L.marker([-7550, 4146], {icon: cardIcon12}).addTo(map)
+  .bindPopup("<h2>Elysian Island</h2><p><a href='https://i.imgur.com/9XdGt95.jpeg' data-lightbox='image-1' data-title='Elysian Island'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
   /*
   1 Gelb 
@@ -391,8 +392,10 @@ L.marker([-5660, 4386], {icon: cardIcon8}).addTo(map)
   16 Pin
   */
 
-
-
+L.marker([-2283, 2981], {icon: cardIcon16}).addTo(map)
+  .bindPopup("<h2>Hehler Chilidad Mountain State WildernessVinewood Downtown</h2><p><a href='https://i.imgur.com/tk3I0Wn.jpeg' data-lightbox='image-1' data-title='Hehler Chilidad Mountain State WildernessVinewood Downtown'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-6144, 4332], {icon: cardIcon16}).addTo(map)
+  .bindPopup("<h2>Hehler Murrieta Heights</h2><p><a href='https://i.imgur.com/YLt7pt8.jpeg' data-lightbox='image-1' data-title='Hehler Murrieta Heights'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5291, 3994], {icon: cardIcon16}).addTo(map)
   .bindPopup("<h2>Hehler Vinewood Downtown</h2><p><a href='https://i.imgur.com/qpcJdVt.jpeg' data-lightbox='image-1' data-title='Hehler Vinewood Downtown'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-3068, 3826], {icon: cardIcon16}).addTo(map)
