@@ -393,7 +393,7 @@ L.marker([-7550, 4146], {icon: cardIcon12}).addTo(map)
   */
 
 L.marker([-2283, 2981], {icon: cardIcon16}).addTo(map)
-  .bindPopup("<h2>Hehler Chilidad Mountain State WildernessVinewood Downtown</h2><p><a href='https://i.imgur.com/tk3I0Wn.jpeg' data-lightbox='image-1' data-title='Hehler Chilidad Mountain State WildernessVinewood Downtown'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>Hehler Chilidad Mountain State Wilderness</h2><p><a href='https://i.imgur.com/tk3I0Wn.jpeg' data-lightbox='image-1' data-title='Hehler Chilidad Mountain State Wilderness'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6144, 4332], {icon: cardIcon16}).addTo(map)
   .bindPopup("<h2>Hehler Murrieta Heights</h2><p><a href='https://i.imgur.com/YLt7pt8.jpeg' data-lightbox='image-1' data-title='Hehler Murrieta Heights'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5291, 3994], {icon: cardIcon16}).addTo(map)
