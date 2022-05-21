@@ -1,5 +1,5 @@
-L.marker([-7230, 3988], {icon: cardIcon6}).addTo(map)
-  .bindPopup("<h2>HafenX</h2><p><a href='https://i.imgur.com/rNTH2ta.png' data-lightbox='image-1' data-title='HafenX'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+//L.marker([-7230, 3988], {icon: cardIcon6}).addTo(map)
+  //.bindPopup("<h2>HafenX</h2><p><a href='https://i.imgur.com/rNTH2ta.png' data-lightbox='image-1' data-title='HafenX'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-6787.25, 4595.25], {icon: cardIcon2}).addTo(map)
   .bindPopup("<h2>Cypress Flats 6</h2><p><a href='https://i.imgur.com/uziiy8L.png' data-lightbox='image-1' data-title='Cypress Flats 6'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5780, 2807], {icon: cardIcon5}).addTo(map)
