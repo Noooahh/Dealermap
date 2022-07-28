@@ -373,24 +373,7 @@ L.marker([-5660, 4386], {icon: cardIcon8}).addTo(map)
 L.marker([-7550, 4146], {icon: cardIcon12}).addTo(map)
   .bindPopup("<h2>Elysian Island</h2><p><a href='https://i.imgur.com/9XdGt95.jpeg' data-lightbox='image-1' data-title='Elysian Island'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
-  /*
-  1 Gelb 
-  2 Gruen
-  3 Blau
-  4 Orange
-  5 Schwarz
-  6 Rot
-  7 Rosa
-  8 Weiss
-  9 Lila
-  10 Braun
-  11 hellblau
-  12 grau
-  13 pink
-  14 darkgreen
-  15 darkred
-  16 Pin
-  */
+ 
 
 L.marker([-2283, 2981], {icon: cardIcon16}).addTo(map)
   .bindPopup("<h2>Hehler Chilidad Mountain State Wilderness</h2><p><a href='https://i.imgur.com/tk3I0Wn.jpeg' data-lightbox='image-1' data-title='Hehler Chilidad Mountain State Wilderness'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
@@ -449,7 +432,54 @@ L.marker([-7600, 7200], {icon: cardIcon7}).addTo(map)
 
 
 
-
+ /*
+  1 Gelb 
+  2 Gruen
+  3 Blau
+  4 Orange
+  5 Schwarz
+  6 Rot
+  7 Rosa
+  8 Weiss
+  9 Lila
+  10 Braun
+  11 hellblau
+  12 grau
+  13 pink
+  14 darkgreen
+  15 darkred
+  16 Pin
+  */
 
 L.marker([-2500, 7300], {icon: cardIcon1}).addTo(map)
   .bindPopup("<h2>Gelb</h2>");
+L.marker([-2600, 7300], {icon: cardIcon2}).addTo(map)
+  .bindPopup("<h2>Grün</h2>");
+L.marker([-2700, 7300], {icon: cardIcon3}).addTo(map)
+  .bindPopup("<h2>Blau</h2>");
+L.marker([-2800, 7300], {icon: cardIcon4}).addTo(map)
+  .bindPopup("<h2>Orange</h2>");
+L.marker([-2900, 7300], {icon: cardIcon5}).addTo(map)
+  .bindPopup("<h2>Schwarz</h2>");
+L.marker([-3000, 7300], {icon: cardIcon6}).addTo(map)
+  .bindPopup("<h2>Rot</h2>");
+L.marker([-3100, 7300], {icon: cardIcon7}).addTo(map)
+  .bindPopup("<h2>Rosa (Cayo)</h2>");
+L.marker([-3200, 7300], {icon: cardIcon8}).addTo(map)
+  .bindPopup("<h2>Weiss</h2>");
+L.marker([-3300, 7300], {icon: cardIcon9}).addTo(map)
+  .bindPopup("<h2>Lila</h2>");
+L.marker([-3400, 7300], {icon: cardIcon10}).addTo(map)
+  .bindPopup("<h2>Braun</h2>");
+L.marker([-3500, 7300], {icon: cardIcon11}).addTo(map)
+  .bindPopup("<h2>Hellblau</h2>");
+L.marker([-3600, 7300], {icon: cardIcon12}).addTo(map)
+  .bindPopup("<h2>Grau</h2>");
+L.marker([-3700, 7300], {icon: cardIcon13}).addTo(map)
+  .bindPopup("<h2>Pink</h2>");
+L.marker([-3800, 7300], {icon: cardIcon14}).addTo(map)
+  .bindPopup("<h2>Dunkelgrün</h2>");
+L.marker([-3900, 7300], {icon: cardIcon15}).addTo(map)
+  .bindPopup("<h2>Dunkelrot</h2>");
+L.marker([-4000, 7300], {icon: cardIcon16}).addTo(map)
+  .bindPopup("<h2>Pin (Hehler, Lester)</h2>");
