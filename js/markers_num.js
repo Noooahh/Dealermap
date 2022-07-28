@@ -410,24 +410,30 @@ L.marker([-7600, 6100], {icon: cardIcon7}).addTo(map)
 L.marker([-7600, 6200], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>CayoPerico 6</h2><p><a href='https://i.imgur.com/y69c6ja.jpeg' data-lightbox='image-1' data-title='CayoPerico 6'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7600, 6300], {icon: cardIcon7}).addTo(map)
-  .bindPopup("<h2>CayoPerico 9</h2><p><a href='https://i.imgur.com/zKQtPOR.jpeg' data-lightbox='image-1' data-title='CayoPerico 9'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>CayoPerico 7</h2><p><a href='https://i.imgur.com/Hj2KVEE.jpeg' data-lightbox='image-1' data-title='CayoPerico 6'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7600, 6400], {icon: cardIcon7}).addTo(map)
-  .bindPopup("<h2>CayoPerico 11</h2><p><a href='https://i.imgur.com/cA9fGaL.jpeg' data-lightbox='image-1' data-title='CayoPerico 11'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>CayoPerico 8</h2><p><a href='https://i.imgur.com/mXNCP7a.jpeg' data-lightbox='image-1' data-title='CayoPerico 6'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7600, 6500], {icon: cardIcon7}).addTo(map)
-  .bindPopup("<h2>CayoPerico 12</h2><p><a href='https://i.imgur.com/3WDKcnF.jpeg' data-lightbox='image-1' data-title='CayoPerico 12'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>CayoPerico 9</h2><p><a href='https://i.imgur.com/zKQtPOR.jpeg' data-lightbox='image-1' data-title='CayoPerico 9'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7600, 6600], {icon: cardIcon7}).addTo(map)
-  .bindPopup("<h2>CayoPerico 13</h2><p><a href='https://i.imgur.com/6Vv4bqP.jpeg' data-lightbox='image-1' data-title='CayoPerico 13'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>CayoPerico 10</h2><p><a href='https://i.imgur.com/pTv45VD.png' data-lightbox='image-1' data-title='CayoPerico 9'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7600, 6700], {icon: cardIcon7}).addTo(map)
-  .bindPopup("<h2>CayoPerico 14</h2><p><a href='https://i.imgur.com/LboIJcS.jpeg' data-lightbox='image-1' data-title='CayoPerico 14'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>CayoPerico 11</h2><p><a href='https://i.imgur.com/cA9fGaL.jpeg' data-lightbox='image-1' data-title='CayoPerico 11'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7600, 6800], {icon: cardIcon7}).addTo(map)
-  .bindPopup("<h2>CayoPerico 15</h2><p><a href='https://i.imgur.com/rwvRYAA.jpeg' data-lightbox='image-1' data-title='CayoPerico 14'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>CayoPerico 12</h2><p><a href='https://i.imgur.com/3WDKcnF.jpeg' data-lightbox='image-1' data-title='CayoPerico 12'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7600, 6900], {icon: cardIcon7}).addTo(map)
-  .bindPopup("<h2>CayoPerico 16</h2><p><a href='https://i.imgur.com/wZeozfm.jpeg' data-lightbox='image-1' data-title='CayoPerico 16'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>CayoPerico 13</h2><p><a href='https://i.imgur.com/6Vv4bqP.jpeg' data-lightbox='image-1' data-title='CayoPerico 13'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7600, 7000], {icon: cardIcon7}).addTo(map)
-  .bindPopup("<h2>CayoPerico 17</h2><p><a href='https://i.imgur.com/VKVJLJ9.png' data-lightbox='image-1' data-title='CayoPerico 17'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>CayoPerico 14</h2><p><a href='https://i.imgur.com/LboIJcS.jpeg' data-lightbox='image-1' data-title='CayoPerico 14'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7600, 7100], {icon: cardIcon7}).addTo(map)
-  .bindPopup("<h2>CayoPerico 18</h2><p><a href='https://i.imgur.com/ubV2gSn.png' data-lightbox='image-1' data-title='CayoPerico 18'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+  .bindPopup("<h2>CayoPerico 15</h2><p><a href='https://i.imgur.com/rwvRYAA.jpeg' data-lightbox='image-1' data-title='CayoPerico 14'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-7600, 7200], {icon: cardIcon7}).addTo(map)
+  .bindPopup("<h2>CayoPerico 16</h2><p><a href='https://i.imgur.com/wZeozfm.jpeg' data-lightbox='image-1' data-title='CayoPerico 16'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-7600, 7300], {icon: cardIcon7}).addTo(map)
+  .bindPopup("<h2>CayoPerico 17</h2><p><a href='https://i.imgur.com/VKVJLJ9.png' data-lightbox='image-1' data-title='CayoPerico 17'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-7600, 7400], {icon: cardIcon7}).addTo(map)
+  .bindPopup("<h2>CayoPerico 18</h2><p><a href='https://i.imgur.com/ubV2gSn.png' data-lightbox='image-1' data-title='CayoPerico 18'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-7600, 7500], {icon: cardIcon7}).addTo(map)
   .bindPopup("<h2>CayoPerico 19</h2><p><a href='https://i.imgur.com/FEaRPa1.jpeg' data-lightbox='image-1' data-title='CayoPerico 19'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
 
