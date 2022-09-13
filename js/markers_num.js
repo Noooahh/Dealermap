@@ -385,6 +385,8 @@ L.marker([-3068, 3826], {icon: cardIcon16}).addTo(map)
   .bindPopup("<h2>Hehler StabCity</h2><p><a href='https://i.imgur.com/B8AAhTz.jpeg' data-lightbox='image-1' data-title='Hehler StabCity'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5763, 2798], {icon: cardIcon16}).addTo(map)
   .bindPopup("<h2>Hehler Morningwood</h2><p><a href='https://i.imgur.com/hgDwIC4.jpeg' data-lightbox='image-1' data-title='Hehler Morningwood'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
+L.marker([-7735, 2905], {icon: cardIcon16}).addTo(map)
+  .bindPopup("<h2>Hehler LSIA</h2><p><a href='https://i.imgur.com/ePcizo4.jpeg' data-lightbox='image-1' data-title='Hehler Morningwood'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5794, 3070], {icon: cardIcon16}).addTo(map)
   .bindPopup("<h2>Lester 1</h2><p><a href='https://i.imgur.com/xFDtmSH.jpeg' data-lightbox='image-1' data-title='Lester 1'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 L.marker([-5572, 3974], {icon: cardIcon16}).addTo(map)
